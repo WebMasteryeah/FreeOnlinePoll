@@ -1,0 +1,4 @@
+    #table { margin: 1em; border-collapse: collapse; }
+    
+    #tbd, td { padding: .3em; border: 1px #ccc solid; }
+    #tbd, td tr { padding: .3em; border: 1px #ccc solid; }
